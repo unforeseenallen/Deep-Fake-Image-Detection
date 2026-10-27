@@ -176,6 +176,15 @@ If necessary, update `MODEL_PATH` and `THRESHOLD_PATH` in `app.py` to match your
 python app.py
 ```
 
+## 🖥️ Application Screenshots
+
+![Application Screenshot 1](Screenshot%202026-10-28%20000513.png)
+
+![Application Screenshot 2](Screenshot%202026-10-28%20000613.png)
+
+![Application Screenshot 3](Screenshot%202026-10-28%20001109.png)
+
+
 Open the local URL displayed in the terminal, normally `http://127.0.0.1:7860`.
 
 ## ⚠️ Limitations
